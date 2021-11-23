@@ -1,0 +1,6 @@
+images/converted/*
+images/raw/*
+images/possible_keeps
+.vscode/
+token.json
+credentials.json
